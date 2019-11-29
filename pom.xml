@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
+    <!-- 在小黑上做了一点修改 -->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
